@@ -14,6 +14,8 @@ This project is a simple Flask application that connects to a MySQL database usi
 docker-compose build
 docker-compose up
 
+
+Folder Structure
 .
 ├── app.py
 ├── db-init.sql
@@ -24,8 +26,3 @@ docker-compose up
 
 
 
-Then:
-```bash
-git add README.md
-git commit -m "Added README"
-git push
